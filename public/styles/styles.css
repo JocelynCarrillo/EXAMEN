@@ -1,0 +1,39 @@
+h1{
+    font-family: "Clarista";
+    text-align: center;
+    font-size: 700%;
+    color: rgb(226, 104, 155);
+}
+body{
+    background-color: rgb(122, 121, 121);
+}
+
+img{
+    width: 300px; height: 300px;
+}
+
+p{
+    font-family: cursive;
+    font-size: 25px;
+    color: gray();
+}
+
+h2{
+    font-size: 80px;
+    font-family: "Clarista";
+    text-align: left;
+    color: rgb(231, 102, 182);
+}
+button{
+    height: 50px;
+}
+form{
+    height: 50px;
+}
+h5{
+    font-family: "cursive";
+    font-size: 25px;
+}
+font-face {
+font-family:Clarista;
+src: url(Clarista.otf);}
